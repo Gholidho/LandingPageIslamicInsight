@@ -85,7 +85,7 @@
     height: 88px;
     top: 40px;
     left: 0;
-    background-image: url(./img/desain-tanpa-judul-1.png);
+    background-image: url("img/Desain tanpa judul (1).png");
     background-size: cover;
     background-position: 50% 50%;
   }
@@ -1020,7 +1020,7 @@
     height: 660px;
     top: 2697px;
     left: 110px;
-    background-image: url(./img/desain-tanpa-judul-2-1.png);
+    background-image: url("img/Desain tanpa judul (2).png");
     background-size: cover;
     background-position: 50% 50%;
   }
